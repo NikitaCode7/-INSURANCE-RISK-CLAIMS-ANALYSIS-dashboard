@@ -59,7 +59,7 @@ This dashboard allows stakeholders to **make informed business decisions**, **op
 ---
 
 ## 📸 Dashboard Preview  
-![Insurance Dashboard Preview](./INSURANCE RISK & CLAIMS ANALYSIS.png)
+![Insurance Dashboard Preview](https://github.com/NikitaCode7/-INSURANCE-RISK-CLAIMS-ANALYSIS-dashboard/blob/main/INSURANCE%20RISK%20%26%20CLAIMS%20ANALYSIS.png)
 
 ---
 
